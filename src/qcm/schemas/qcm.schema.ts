@@ -1,3 +1,5 @@
+
+  
 import * as mongoose from 'mongoose';
 
 const CoursSchema = new mongoose.Schema({
